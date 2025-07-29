@@ -9,10 +9,8 @@
 int main(){
 
     double radius = 12.4;
-    double area = PI * radius * radius;
-    printf("The area of a circle with radius %.2f is %.2f\n");
-
-
+    double area = circleArea(radius);
+    printf("The area of a circle with radius %.2f is %.2f\n", radius, area);
 
     printf("The value of PI is approximately %.5f\n", PI);
 
