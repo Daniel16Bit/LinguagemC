@@ -1,10 +1,9 @@
-// Comece a programar em C em 15 minutos! ⚙️ - https://youtube.com/playlist?list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe&si=6C8cJRO7E_3fEwtG
+// #1: Getting Started with C Programming | C Programming for Beginners
 
-
-#include <stdio.h> 
+#include <stdio.h>
 
 int main(){
-
-    
+    printf("Olá, Mundo!");
     return 0;
+
 }
