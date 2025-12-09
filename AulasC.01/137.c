@@ -1,5 +1,5 @@
 /*
-138. C - Tipos de dados e variáveis em C
+137. Primeiro programa em C no Code Blocks
 Aula 137 do Professor ~Nelio Alves~
 */
 
@@ -9,7 +9,7 @@ int main(){
 
 
     char Ola[] = "Ola Mundo";
-    printf("Texto: %c\n", Ola);
+    printf("Texto: %s\n", Ola);
 
 
     return 0;
